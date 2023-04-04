@@ -27,7 +27,3 @@
 7. Creando un formulario básico
 
     Crea un formulario HTML básico con un input de tipo text para el "Nombre", un input de tipo email para "Dirección de correo electrónico", un menú desplegable para "País" y un input de tipo submit para enviar los datos formulario.
-
-8. Combinándolo todo
-
-    Crea una página web que incluya un encabezado, una imagen con un título, una lista y un pie de página con vuestro nombre y el año en que estamos. Usa etiquetas HTML, atributos y elementos anidados apropiados para formatear y estructurar el contenido.
