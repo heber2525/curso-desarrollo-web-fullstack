@@ -17,8 +17,11 @@
    Escribe un programa que convierta una calificación numérica (0-100) en una calificación textual utilizando condicionales. La conversión es la siguiente:
 
    0 - 49: Suspenso
+
    50 - 69: Aprobado
+
    70 - 89: Notable
+
    90 - 100: Sobresaliente
 
 5. Menor o mayor
