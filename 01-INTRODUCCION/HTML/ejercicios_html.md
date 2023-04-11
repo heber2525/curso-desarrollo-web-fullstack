@@ -18,7 +18,7 @@
 
 5. Añadiendo enlaces
 
-    Crea un documento HTML con 4 enlaces: uno a un sitio web externo, otro relativo que apunte a otro documento HTML que se encuentre en la misma carpeta, uno a una dirección de correo electrónico y otro a una etiqueta de anclaje más abajo en la misma página.
+    Crea un documento HTML con 4 enlaces: uno a un sitio web externo, otro relativo que apunte a otro documento HTML que se encuentre en la misma carpeta, uno a una dirección de correo electrónico.
 
 6. Formateo básico
     
